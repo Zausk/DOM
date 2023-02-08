@@ -79,5 +79,3 @@ trocarSubtitulo.textContent = "Google";
 let removeSubtitulo = document.querySelector('#subtitulo');
 
 removeSubtitulo.remove();
-
-
